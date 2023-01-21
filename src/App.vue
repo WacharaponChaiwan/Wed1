@@ -1,5 +1,5 @@
 <script setup>
-import LikeSad from "../src/components/likeSad.vue";
+import LikeSad from "../src/components/LikeSad.vue";
 </script>
 <template>
 <div class="row">
@@ -9,7 +9,7 @@ import LikeSad from "../src/components/likeSad.vue";
       <div class="card-body">
         <h5 class="card-title">shirokane</h5>
         <p class="card-text" >
-          kei shirokane
+           She name is kei shirokane and she so cute
         </p>
       </div>
     </div>
