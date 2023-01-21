@@ -1,5 +1,5 @@
 <script setup>
-import LikeSad from "./components/likeSad.vue";
+import LikeSad from "../src/components/likeSad.vue";
 </script>
 <template>
 <div class="row">
